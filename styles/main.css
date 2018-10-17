@@ -5,3 +5,153 @@ font-family: 'Montserrat', sans-serif;
 margin:0;
 
 }
+
+
+.comp-section-content {
+  display: flex;
+  margin-left:-60px;
+  margin-bottom: -70px;
+
+}
+
+
+.titre {
+font-family: 'Montserrat', bold;
+  margin: 40px;
+  width: auto;
+padding: 1em;
+   border-radius: 10px 10px 0px 0px;
+padding: 2em;
+margin-left:300px;
+margin-top: 20px;
+
+}
+
+.orange {
+font-family: 'Montserrat', bold;
+  margin: 30px;
+  width: auto;
+  height: 10px;
+  background-color: #F55D3E;
+   border-radius: 10px 10px 0px 0px;
+   padding: 2em;
+
+}
+
+
+.bleu {
+font-family: 'Montserrat', bold;
+  margin: 30px;
+  width: auto;
+    height: 10px;
+  background-color: #87BBA2;
+   border-radius: 10px 10px 0px 0px;
+padding: 2em;
+
+}
+
+.jaune {
+font-family: 'Montserrat', bold;
+  margin: 30px;
+  width: auto;
+    height: 10px;
+  background-color: #F7CB15;
+   border-radius: 10px 10px 0px 0px;
+padding: 2em;
+
+
+
+}
+
+.gris {
+font-family: 'Montserrat', bold;
+  margin: 30px;
+  width: auto;
+    height: 10px;
+  background-color: #364958;
+       border-radius: 10px 10px 0px 0px;
+padding: 2em;
+
+}
+
+
+
+a
+{
+color: white;
+text-decoration: none;
+text-align: center;
+
+}
+
+
+
+
+.fondbeige  img {
+  width: 100%;
+  padding-top: 90px;
+
+}
+
+
+.fondorange {
+  font-family: 'Montserrat', bold;
+  padding-top: 0px;
+  margin-top: 0px;
+    margin: 0px;
+    width: auto;
+    background-image: linear-gradient(#F55D3E,#a53c27);
+         border-radius: 0px;
+  padding: 10em;
+
+}
+
+
+
+.fondbleu {
+  font-family: 'Montserrat', bold;
+  padding-top: 0px;
+  margin-top: 0px;
+    margin: 0px;
+    width: auto;
+background-image: linear-gradient(#87BBA2,#4f6d5f);
+         border-radius: 0px;
+  padding: 10em;
+
+}
+
+
+
+
+.fondjaune {
+  font-family: 'Montserrat', bold;
+  padding-top: 0px;
+  margin-top: 0px;
+    margin: 0px;
+    width: auto;
+background-image: linear-gradient(#F7CB15,#c29f0e);
+         border-radius: 0px;
+  padding: 10em;
+
+}
+
+
+
+.fondgris {
+  font-family: 'Montserrat', bold;
+  padding-top: 0px;
+  margin-top: 0px;
+    margin: 0px;
+    width: auto;
+    background-image: linear-gradient(#364958,#202a33);
+         border-radius: 0px;
+  padding: 10em;
+
+}
+
+
+#video {
+  width: 100%;
+  padding-top: -30px;
+
+}
